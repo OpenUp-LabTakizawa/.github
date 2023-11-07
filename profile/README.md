@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-Engineer group actively adopts new technology and grows with fun!
+Engineer group actively adopts new technology and grows with fun:mount_fuji:
 </p>
