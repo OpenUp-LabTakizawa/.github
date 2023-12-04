@@ -1,0 +1,14 @@
+Documentation:
+- changed-files:
+  - any-glob-to-any-file: '**/*.md'
+image:
+- changed-files:
+  - any-glob-to-any-file: '**/*.webp'
+vscode:
+- changed-files:
+  - any-glob-to-any-file: '.vscode/*'
+workflows:
+- changed-files:
+  - any-glob-to-any-file: ['.github/workflows/*', '.github/dependabot.yml']
+feature:
+ - head-branch: ['^feature', 'feature']
