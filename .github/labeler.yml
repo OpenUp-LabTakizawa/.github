@@ -10,5 +10,5 @@ vscode:
 ci:
 - changed-files:
   - any-glob-to-any-file: ['.github/workflows/*.yml', '.github/dependabot.yml']
-feature:
- - head-branch: ['^feature', 'feature']
+enhancement:
+ - head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
