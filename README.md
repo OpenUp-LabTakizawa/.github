@@ -25,7 +25,7 @@ For more detail, please check the article on [Extension Marketplace](https://cod
 
 ## 🐭 EditorConfig
 
-We often use [.editorconfig](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.editorconfig).
+We often use this [.editorconfig](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.editorconfig).
 
-Reference:[What is EditorConfig?](https://editorconfig.org/)
+Reference:[What is EditorConfig?](https://editorconfig.org/)  
 GitHub:[@EditorConfig](https://github.com/editorconfig/)
