@@ -1,7 +1,7 @@
 # .github
 Default Community Health Files for the OpenUp-LabTakizawa organization on GitHub
 
-## 🍤 Community Health Files
+## 🎗️ Community Health Files
 There are some default community health files.
 
 - [bug_report.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
