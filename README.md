@@ -22,3 +22,10 @@ Our default IDE is [Visual Studio Code](https://code.visualstudio.com/).
 We highly recommend to use VSCode with reliable extensions in [.vscode](https://github.com/OpenUp-LabTakizawa/.github/tree/main/.vscode).
 
 For more detail, please check the article on [Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace).
+
+## 🐭 EditorConfig
+
+We often use [.editorconfig](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.editorconfig).
+
+Reference:[What is EditorConfig?](https://editorconfig.org/)
+GitHub:[@EditorConfig](https://github.com/editorconfig/)
