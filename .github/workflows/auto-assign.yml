@@ -18,6 +18,5 @@ jobs:
     - name: 'Auto-assign issue'
       uses: pozil/auto-assign-issue@v1
       with:
-          repo-token: ${{ secrets.AUTO_ASSIGN }}
-          teams: big-four
+          assignees: HaradaTakayuki,kazutan1230,Marukome0743,tanePON
           numOfAssignee: 1
