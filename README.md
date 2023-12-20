@@ -10,6 +10,7 @@ There are some default community health files.
 - [feature_request.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
 - [pull_request_template.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/.github/pull_request_template.md)
 - [CODE_OF_CONDUCT.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/CONTRIBUTING.md)
 - [LICENSE](https://github.com/OpenUp-LabTakizawa/.github/blob/main/LICENSE)
 - [SECURITY.md](https://github.com/OpenUp-LabTakizawa/.github/blob/main/SECURITY.md)
 
