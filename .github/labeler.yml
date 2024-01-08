@@ -1,14 +1,20 @@
-documentation:
+♻️ci:
+- changed-files:
+  - any-glob-to-any-file: '.github/**/*.yml'
+📝documentation:
 - changed-files:
   - any-glob-to-any-file: '**/*.md'
-image:
+🚀enhancement:
+ - head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
+🪸git:
 - changed-files:
-  - any-glob-to-any-file: '**/*.webp'
-vscode:
+  - any-glob-to-any-file: '.gitattributes'
+🖼️image:
+- changed-files:
+  - any-glob-to-any-file: 'images/*.webp'
+🧰infrastructure:
+- changed-files:
+  - any-glob-to-any-file: '.editorconfig'
+🆚vscode:
 - changed-files:
   - any-glob-to-any-file: '.vscode/*'
-ci:
-- changed-files:
-  - any-glob-to-any-file: ['.github/workflows/*.yml', '.github/dependabot.yml']
-enhancement:
- - head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
