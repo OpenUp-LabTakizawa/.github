@@ -6,6 +6,7 @@
     "github.vscode-github-actions",
     "github.vscode-pull-request-github",
     "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vsliveshare.vsliveshare",
     "ms-azuretools.vscode-docker",
     "wakatime.vscode-wakatime"
   ]
