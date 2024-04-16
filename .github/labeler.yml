@@ -5,7 +5,7 @@
 - changed-files:
   - any-glob-to-any-file: '**/*.md'
 🚀enhancement:
- - head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
+- head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
 🪸git:
 - changed-files:
   - any-glob-to-any-file: '.gitattributes'
