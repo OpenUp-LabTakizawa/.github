@@ -1,4 +1,4 @@
-name: 'Identify and close stale issues and PRs'
+name: Identify and close stale issues and PRs
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   stale:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/stale@v9
         with:
