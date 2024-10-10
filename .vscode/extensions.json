@@ -4,6 +4,7 @@
     "editorconfig.editorconfig",
     "github.vscode-github-actions",
     "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "ms-vsliveshare.vsliveshare",
     "ms-azuretools.vscode-docker",
