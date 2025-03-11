@@ -1,4 +1,4 @@
-name: Identify and close stale issues and PRs
+name: 🔒 Identify and close stale issues and PRs
 
 on:
   schedule:
@@ -13,7 +13,8 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v9
+      - name: 🔒 Close stale issues and PRs
+        uses: actions/stale@v9
         with:
           stale-issue-message:
             This issue has been identified as stale because it
