@@ -11,7 +11,7 @@
   - any-glob-to-any-file: '.gitattributes'
 🖼️image:
 - changed-files:
-  - any-glob-to-any-file: 'images/*.webp'
+  - any-glob-to-any-file: 'images/**'
 🧰infrastructure:
 - changed-files:
   - any-glob-to-any-file: '.editorconfig'
