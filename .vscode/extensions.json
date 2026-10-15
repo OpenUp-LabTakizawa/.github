@@ -1,12 +1,10 @@
 {
   "recommendations": [
-    "Codeium.codeium",
     "editorconfig.editorconfig",
     "github.vscode-github-actions",
     "github.vscode-pull-request-github",
     "gruntfuggly.todo-tree",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "ms-azuretools.vscode-docker",
-    "wakatime.vscode-wakatime"
   ]
 }
